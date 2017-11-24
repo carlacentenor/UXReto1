@@ -71,15 +71,25 @@ Página Elegida :
 
 ![Con titulo](assets/docs/filtro.JPG "titulo")
 
+ ***
 ### PARTES QUE CONFORMAN UI
 
 * Diseño de los botones
 * Los colores de la marca (plomo ,negro y rojo)
 * Diseño de los iconos y efectos 
+![Con titulo](assets/docs/estilos.jpg "titulo")
 * Boton de reproducción automática en la lista de videos sugeridos.
+![Con titulo](assets/docs/boton.jpg "titulo")
 * La posición , forma, tamaño de las miniaturas de los videos.
 * Forma y tamaño de la imagen de los usuarios tanto en la parte de cuenta personal como en los comentarios.
-* Filtros de respuestas a los comentarios 
+![Con titulo](assets/docs/usuarios.jpg "titulo")
+
 * Estilos de fuente para los nombres de los usuarios que realizan comentarios.
+
+![Con titulo](assets/docs/comen.jpg "titulo")
 * Posición y tamaño del logo.
+
 * Estilo, tamaño , fuente y color de anuncios que aparecen en la parte inferior dentro del video.
+![Con titulo](assets/docs/publicidad.JPG "titulo")
+
+
